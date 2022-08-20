@@ -1,12 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Boris.
 
-- 🌱 I’m currently learning Python at SoftUni
-- 🔭 I’m currently working on Python, JavaScript, Web Development
+- 🌱 I’m currently learning Python and JavaScript at SoftUni
+- 🔭 I’m currently working on Web Development and Web Scraping
+- ⚡ Fun facts - cat owner, chess lover, drawing as a hobby
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=escaper90&theme=tokyonight)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=50 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=50 /><i class="devicon-selenium-original colored" height=50></i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height=50 />
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50 />
-          
-          
-<img src="https://github-readme-stats.vercel.app/api?username=escaper90&show_icons=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=escaper90&theme=tokyonight) <img src="https://github-readme-stats.vercel.app/api?username=escaper90&show_icons=true"/>

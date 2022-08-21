@@ -1,4 +1,4 @@
-##### Hi there 👋 I'm Boris.
+Hi there 👋 I'm Boris.
 
 - 🌱 I’m currently learning Python and JavaScript at SoftUni
 - 🔭 I’m interested in Web Development and Web Scraping
